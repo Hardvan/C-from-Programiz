@@ -1,0 +1,74 @@
+# My notes on C Programming from Programiz
+
+Welcome to the "C from Programiz" repository! This repository contains a collection of C programming examples and tutorials to help you learn and master the fundamentals of the C programming language. Whether you're a beginner looking to get started with C or an experienced programmer brushing up on your skills, you'll find valuable resources here.
+
+## Directory Structure
+
+- 📂 **Learning** (Current Directory)
+  - [.gitignore](./.gitignore)
+  - [directory_structure.md](./directory_structure.md)
+  - [directory_structure.txt](./directory_structure.txt)
+  - [DirecTracer.py](./DirecTracer.py)
+- 📂 **Arrays**
+  - [Average.c](Arrays/Average.c)
+- 📂 **ArraysAndFunctionsExamples**
+  - [ArraysAndFunctions.c](ArraysAndFunctionsExamples/ArraysAndFunctions.c)
+  - [ArraysAndFunctionsExample1.c](ArraysAndFunctionsExamples/ArraysAndFunctionsExample1.c)
+  - [ArraysAndFunctionsExample2.c](ArraysAndFunctionsExamples/ArraysAndFunctionsExample2.c)
+  - [ArraysAndFunctionsExample3.c](ArraysAndFunctionsExamples/ArraysAndFunctionsExample3.c)
+- 📂 **Dynamic Memory Allocation**
+  - [Dynamic_Memory_Allocation.c](Dynamic%20Memory%20Allocation/Dynamic_Memory_Allocation.c)
+  - [Dynamic_Memory_Allocation_Example1.c](Dynamic%20Memory%20Allocation/Dynamic_Memory_Allocation_Example1.c)
+  - [Dynamic_Memory_Allocation_Example2.c](Dynamic%20Memory%20Allocation/Dynamic_Memory_Allocation_Example2.c)
+  - [Dynamic_Memory_Allocation_Example3.c](Dynamic%20Memory%20Allocation/Dynamic_Memory_Allocation_Example3.c)
+- 📂 **MultiDimensionalArray**
+  - [MultiDimensionalArray.c](MultiDimensionalArray/MultiDimensionalArray.c)
+- 📂 **Pointers**
+  - [Intro_To_Pointers.c](Pointers/Intro_To_Pointers.c)
+  - [Passing_Addresses_To_Function.c](Pointers/Passing_Addresses_To_Function.c)
+  - [Passing_Pointers_to_Functions.c](Pointers/Passing_Pointers_to_Functions.c)
+  - [Pointers_and_Arrays.c](Pointers/Pointers_and_Arrays.c)
+  - 📂 **Problems**
+    - [AddMatrices.c](Pointers/Problems/AddMatrices.c)
+    - [LargestNumberInArray.c](Pointers/Problems/LargestNumberInArray.c)
+    - [StandardDeviation.c](Pointers/Problems/StandardDeviation.c)
+- 📂 **Strings**
+  - [InitialisingStrings.c](Strings/InitialisingStrings.c)
+  - [InputtingString.c](Strings/InputtingString.c)
+  - [PassingStringsToFunctions.c](Strings/PassingStringsToFunctions.c)
+  - [StringFunctions.c](Strings/StringFunctions.c)
+  - [StringsAndPointers.c](Strings/StringsAndPointers.c)
+  - 📂 **Examples**
+    - [CharacterFrequency.c](Strings/Examples/CharacterFrequency.c)
+    - [Concatenation.c](Strings/Examples/Concatenation.c)
+    - [CopyOfString.c](Strings/Examples/CopyOfString.c)
+    - [LengthofString.c](Strings/Examples/LengthofString.c)
+    - [RemoveAllCharactersExceptAlphabets.c](Strings/Examples/RemoveAllCharactersExceptAlphabets.c)
+    - [ReversingAString.c](Strings/Examples/ReversingAString.c)
+    - [VowelConsDigitWhiteCounter.c](Strings/Examples/VowelConsDigitWhiteCounter.c)
+- 📂 **Structure and Union**
+  - 📂 **Problems**
+    - [Add_Complex.c](Structure%20and%20Union/Problems/Add_Complex.c)
+    - [Add_Distances.c](Structure%20and%20Union/Problems/Add_Distances.c)
+    - [nStudent_Info.c](Structure%20and%20Union/Problems/nStudent_Info.c)
+    - [Student_Details.c](Structure%20and%20Union/Problems/Student_Details.c)
+    - [Time_Difference.c](Structure%20and%20Union/Problems/Time_Difference.c)
+  - 📂 **Struct and Pointers**
+    - [Example1.c](Structure%20and%20Union/Struct%20and%20Pointers/Example1.c)
+    - [Example2_DynamicMemoryAllocation.c](Structure%20and%20Union/Struct%20and%20Pointers/Example2_DynamicMemoryAllocation.c)
+    - [Intro.c](Structure%20and%20Union/Struct%20and%20Pointers/Intro.c)
+  - 📂 **Structure**
+    - [Example1.c](Structure%20and%20Union/Structure/Example1.c)
+    - [Example2.c](Structure%20and%20Union/Structure/Example2.c)
+    - [Example3.c](Structure%20and%20Union/Structure/Example3.c)
+    - [Introduction.c](Structure%20and%20Union/Structure/Introduction.c)
+    - [Nested_Structures.c](Structure%20and%20Union/Structure/Nested_Structures.c)
+    - [typedef_Keyword.c](Structure%20and%20Union/Structure/typedef_Keyword.c)
+  - 📂 **Structure and Function**
+    - [Example1.c](Structure%20and%20Union/Structure%20and%20Function/Example1.c)
+    - [Example2_ReturnStructFromAFunction.c](Structure%20and%20Union/Structure%20and%20Function/Example2_ReturnStructFromAFunction.c)
+    - [Example3_PassStructByReference.c](Structure%20and%20Union/Structure%20and%20Function/Example3_PassStructByReference.c)
+  - 📂 **Union**
+    - [Accessing_Union_Numbers.c](Structure%20and%20Union/Union/Accessing_Union_Numbers.c)
+    - [Difference_Between_Union_and_Structure.c](Structure%20and%20Union/Union/Difference_Between_Union_and_Structure.c)
+    - [Intro.c](Structure%20and%20Union/Union/Intro.c)

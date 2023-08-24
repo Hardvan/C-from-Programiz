@@ -1,0 +1,68 @@
+📂 Learning
+  - .gitignore
+  - directory_structure.md
+  - directory_structure.txt
+  - DirecTracer.py
+📂 Arrays
+  - Average.c
+📂 ArraysAndFunctionsExamples
+  - ArraysAndFunctions.c
+  - ArraysAndFunctionsExample1.c
+  - ArraysAndFunctionsExample2.c
+  - ArraysAndFunctionsExample3.c
+📂 Dynamic Memory Allocation
+  - Dynamic_Memory_Allocation.c
+  - Dynamic_Memory_Allocation_Example1.c
+  - Dynamic_Memory_Allocation_Example2.c
+  - Dynamic_Memory_Allocation_Example3.c
+📂 MultiDimensionalArray
+  - MultiDimensionalArray.c
+📂 Pointers
+  - Intro_To_Pointers.c
+  - Passing_Addresses_To_Function.c
+  - Passing_Pointers_to_Functions.c
+  - Pointers_and_Arrays.c
+	📂 Problems
+	  - AddMatrices.c
+	  - LargestNumberInArray.c
+	  - StandardDeviation.c
+📂 Strings
+  - InitialisingStrings.c
+  - InputtingString.c
+  - PassingStringsToFunctions.c
+  - StringFunctions.c
+  - StringsAndPointers.c
+	📂 Examples
+	  - CharacterFrequency.c
+	  - Concatenation.c
+	  - CopyOfString.c
+	  - LengthofString.c
+	  - RemoveAllCharactersExceptAlphabets.c
+	  - ReversingAString.c
+	  - VowelConsDigitWhiteCounter.c
+📂 Structure and Union
+	📂 Problems
+	  - Add_Complex.c
+	  - Add_Distances.c
+	  - nStudent_Info.c
+	  - Student_Details.c
+	  - Time_Difference.c
+	📂 Struct and Pointers
+	  - Example1.c
+	  - Example2_DynamicMemoryAllocation.c
+	  - Intro.c
+	📂 Structure
+	  - Example1.c
+	  - Example2.c
+	  - Example3.c
+	  - Introduction.c
+	  - Nested_Structures.c
+	  - typedef_Keyword.c
+	📂 Structure and Function
+	  - Example1.c
+	  - Example2_ReturnStructFromAFunction.c
+	  - Example3_PassStructByReference.c
+	📂 Union
+	  - Accessing_Union_Numbers.c
+	  - Difference_Between_Union_and_Structure.c
+	  - Intro.c
